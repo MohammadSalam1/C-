@@ -1,0 +1,3 @@
+C:/Users/Mohamad/CLionProjects/UniWork/cmake-build-debug/CMakeFiles/uniwork.dir
+C:/Users/Mohamad/CLionProjects/UniWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mohamad/CLionProjects/UniWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
