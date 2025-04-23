@@ -1,0 +1,2 @@
+# C-
+Here is where i put different small projects and exercises of c++ I'm learning
